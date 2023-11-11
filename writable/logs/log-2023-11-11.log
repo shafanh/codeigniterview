@@ -1,0 +1,130 @@
+CRITICAL - 2023-11-11 01:22:35 --> Invalid file: "about page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about page', [], true)
+ 3 APPPATH\Controllers\Page.php(7): view('about page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:22:38 --> Invalid file: "about page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about page', [], true)
+ 3 APPPATH\Controllers\Page.php(7): view('about page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:24:21 --> Invalid file: "about page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about page', [], true)
+ 3 APPPATH\Controllers\Page.php(7): view('about page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:24:26 --> Invalid file: "contact page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contact page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('contact page', [], true)
+ 3 APPPATH\Controllers\Page.php(12): view('contact page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->contact()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:24:28 --> Invalid file: "contact page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('contact page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('contact page', [], true)
+ 3 APPPATH\Controllers\Page.php(12): view('contact page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->contact()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:24:43 --> Invalid file: "about page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about page', [], true)
+ 3 APPPATH\Controllers\Page.php(7): view('about page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:26:10 --> Invalid file: "about page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('about page', [], true)
+ 3 APPPATH\Controllers\Page.php(7): view('about page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->about()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:26:16 --> Invalid file: "Faqs page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Faqs page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Faqs page', [], true)
+ 3 APPPATH\Controllers\Page.php(17): view('Faqs page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->faqs()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:27:29 --> Invalid file: "Faqs page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Faqs page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Faqs page', [], true)
+ 3 APPPATH\Controllers\Page.php(17): view('Faqs page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->faqs()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:28:08 --> Invalid file: "Faqs page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Faqs page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Faqs page', [], true)
+ 3 APPPATH\Controllers\Page.php(17): view('Faqs page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->faqs()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:28:09 --> Invalid file: "Faqs page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Faqs page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Faqs page', [], true)
+ 3 APPPATH\Controllers\Page.php(17): view('Faqs page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->faqs()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:28:46 --> Invalid file: "Faqs page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Faqs page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Faqs page', [], true)
+ 3 APPPATH\Controllers\Page.php(17): view('Faqs page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->faqs()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
+CRITICAL - 2023-11-11 01:28:47 --> Invalid file: "Faqs page.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Faqs page.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Faqs page', [], true)
+ 3 APPPATH\Controllers\Page.php(17): view('Faqs page')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Page->faqs()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\codeigniterview\\public\\index.php')
